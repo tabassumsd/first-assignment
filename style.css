@@ -15,7 +15,7 @@ p{
     font-weight: 500;
 }
 
-a{
+.a-tag{
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
     background-image: linear-gradient(rgb(172, 31, 172),rgb(248, 54, 86));
@@ -110,4 +110,60 @@ h2{
     padding-bottom: 70px;
     padding-top: 25px;
     margin: 0px;
+}
+
+.for-order{
+    text-align: center;
+    margin-bottom: 40px;
+    background-image: url(images/pasta15_b291.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    padding: 150px;
+    margin-bottom: 120px;
+}
+
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 21px;
+    color: white;
+}
+
+input{
+    padding: 30px 120px;
+}
+
+.last-a-tag{
+    display: table;
+    margin-left: 530px;
+    margin-top: 10px;
+}
+
+.finding-place{
+    padding: 80px;
+    margin-bottom: 100px;
+}
+
+.places{
+    display: flex;
+}
+
+.places0{
+    background-image: url(images/city-title-Dhaka.webp);
+    background-repeat: no-repeat;
+    padding: 200px;
+    margin-right: 10px;
+}
+.places1{
+    background-image: url(images/city-tile-Savar.webp);
+    background-repeat: no-repeat;
+    padding: 200px;
+}
+
+
+.white-colored{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
 }
