@@ -1,0 +1,45 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+}
+
+span{
+    color: orange;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: gray;
+    padding-bottom: 20px;
+    font-weight: 500;
+}
+
+a{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(250, 192, 84),rgb(233, 80, 64));
+    padding: 12px 20px;
+    border-radius: 25px;
+    font-size: 14px;
+    color: white;
+}
+
+.first-container{
+    display: flex;
+}
+
+.half-width{
+    padding-left: 150px;
+    width: 50%;
+}
+
+#first-half-width{
+    padding-top: 100px;
+
+}
+
+img{
+    width: 90%;
+}
+
